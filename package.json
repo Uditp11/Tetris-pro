@@ -23,12 +23,12 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lovishtater/Tetris-Pro.git"
+    "url": "git+https://github.com/Uditp11/Tetris-Pro.git"
   },
-  "author": "Lovish Tater",
+  "author": "Udit Parihar",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lovishtater/Tetris-Pro/issues"
+    "url": "https://github.com/Uditp11/Tetris-Pro/issues"
   },
-  "homepage": "https://github.com/lovishtater/Tetris-Pro#readme"
+  "homepage": "https://github.com/Uditp11/Tetris-Pro#readme"
 }

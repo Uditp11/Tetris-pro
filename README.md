@@ -1,4 +1,4 @@
-# <img src= "https://github.com/lovishtater/Tetris-Pro/blob/main/logo.jpg" alt= "icon" width=25> TETRIS PRO 🧩
+# <img src= "https://github.com/Uditp11/Tetris-Pro/blob/main/logo.jpg" alt= "icon" width=25> TETRIS PRO 🧩
 
 ## Description
 Tetris Pro is a advance version of the classic game Tetris. The game is played on a grid of squares. The goal is to arrange the falling shape in the grid so that it forms a complete row. The game is over when the shape cannot be moved down any further.
